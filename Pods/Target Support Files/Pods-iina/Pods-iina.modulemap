@@ -1,0 +1,6 @@
+framework module Pods_iina {
+  umbrella header "Pods-iina-umbrella.h"
+
+  export *
+  module * { export * }
+}

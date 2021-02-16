@@ -1,0 +1,116 @@
+/*
+  KeyBinding.strings
+  iina
+
+  Created by lhc on 4/2/2017.
+  Copyright © 2017 lhc. All rights reserved.
+*/
+
+"cmd.ignore" = "چشم‌پوشی";
+"cmd.seek" = "جستجو";
+"cmd.revert-seek" = "Revert seek";
+"cmd.set" = "اعمال";
+"cmd.cycle" = "چرخه";
+"cmd.cycle-values" = "Cycle in";
+"cmd.add" = "عوض کردن";
+"cmd.multiply" = "Multiply";
+"cmd.frame-step" = "فریم بعدی";
+"cmd.frame-back-step" = "فریم قبلی";
+"cmd.ab-loop" = "A-B loop";
+"cmd.sub-seek" = "Subtitle seek";
+"cmd.playlist-next" = "رسانه بعدی";
+"cmd.playlist-prev" = "رسانه قبلی";
+"cmd.playlist-move" = "Move playlist item";
+"cmd.playlist-clear" = "پاک کردن فهرست پخش";
+"cmd.playlist-remove" = "Remove current";
+"cmd.playlist-shuffle" = "تصادفی";
+"cmd.write-watch-later-config" = "Record play history";
+"cmd.stop" = "توقف";
+"cmd.quit" = "خروج";
+"cmd.quit-watch-later" = "Quit (save progress)";
+"cmd.screenshot" = "عکس گرفتن از صفحه";
+"cmd.screenshot-to-file" = "Screenshot to file";
+"cmd.loadfile" = "بارگذاری فایل";
+"cmd.loadlist" = "بارگذاری فهرست پخش";
+"cmd.run" = "اجرا";
+
+"iina.flip" = "برگرداندن";
+"iina.mirror" = "معکوس کردن";
+
+"iina.toggle-pip" = "Toggle Picture-in-Picture";
+"iina.toggle-music-mode" = "Toggle Music Mode";
+"iina.open-file" = "باز کردن فایل";
+"iina.open-url" = "باز کردن نشانی";
+"iina.video-panel" = "Video panel";
+"iina.audio-panel" = "Audio panel";
+"iina.sub-panel" = "Subtitle panel";
+"iina.playlist-panel" = "Playlist panel";
+"iina.chapter-panel" = "Chapter panel";
+"iina.bigger-window" = "Bigger Window";
+"iina.smaller-window" = "Smaller Window";
+"iina.fit-to-screen" = "Fit to Screen";
+"iina.toggle-flip" = "Toggle flip";
+"iina.toggle-mirror" = "Toggle mirror";
+"iina.save-playlist" = "ذخیره فهرست پخش جاری";
+"iina.delete-current-file" = "پاک کردن فایل جاری";
+"iina.delete-current-file-hard" = "Delete current file directly without moving to trash";
+"iina.find-online-subs" = "جستجو زیرنویس آنلاین";
+"iina.save-downloaded-sub" = "ذخیره زیرنویس دانلود شده";
+
+"yes" = "تایید";
+"no" = "خیر";
+"to" = "به";
+"by" = "توسط";
+"in" = "در";
+"add" = "افزایش";
+"minus" = "کاهش";
+"forward" = "جلو";
+"backward" = "به عقب";
+"seek-to" = "به";
+
+"relative" = "ثانيه";
+"absolute" = "ثانيه";
+"absolute-percent" = "%";
+"relative-percent" = "%";
+"relative+exact" = "s (exact)";
+"relative-percent+exact" = "% (exact)";
+"absolute+keyframe" = "s (keyframe)";
+"absolute-percent+keyframe" = "% (keyframe)";
+
+"opt.pause" = "مکث";
+"opt.speed" = "سرعت";
+
+"opt.window-scale" = "مقیاس پنجره";
+
+"opt.video" = "Video track";
+"opt.video-aspect" = "Video aspect";
+"opt.contrast" = "Contrast";
+"opt.brightness" = "Brightness";
+"opt.gamma" = "Gamma";
+"opt.saturation" = "Saturation";
+"opt.deinterlace" = "Deinterlace";
+
+"opt.audio" = "Audio track";
+"opt.volume" = "Volume";
+"opt.mute" = "Mute";
+"opt.audio-delay" = "Audio delay";
+
+"opt.sub" = "Subtitle track";
+"opt.sub-delay" = "Subtitle delay";
+"opt.sub-pos" = "Subtitle position";
+"opt.sub-scale" = "Subtitle scale";
+"opt.sub-visibility" = "Subtitle visibility";
+"opt.sub-ass-style-override" = "ASS style override";
+
+"opt.fullscreen" = "Fullscreen";
+"opt.ontop" = "Float on top";
+
+"opt.chapter" = "Chapter";
+
+"read.set" = "Set {{property}} to {{value}}";
+"read.add" = "{{property}} {{value}}";
+"read.multiply" = "Multiply {{property}} by {{factor}}x";
+"read.cycle" = "Cycle {{property}}{{#dir_down}} Downwards{{/dir_down}}";
+"read.cycle-values" = "Cycle {{property}} in ({{{values}}})";
+"read.seek" = "Seek {{#fwd}}forward{{/fwd}}{{#bwd}}backward{{/bwd}}{{#abs}}to{{/abs}} {{value}}{{#sec}}s{{/sec}}{{#per}}%{{/per}} {{#exact}}(exact){{/exact}}{{#kf}}(keyframe){{/kf}}";
+"read.sub-seek" = "Seek to {{#skip_1}}next{{/skip_1}}{{#skip_-1}}previous{{/skip_-1}} subtitle";
